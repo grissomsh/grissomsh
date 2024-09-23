@@ -22,48 +22,49 @@
 | CN201210417663.4       | 2012.10.23| CN103778044B        | 2017.5.17     | 用于系统故障诊断和修复的方法和装置             |
 
 ## US（43）
-| 专利编号              | 专利名称                                      | 发明者                           | 日期       |
-|---------------------|---------------------------------------------|----------------------------------|------------|
-| US-11763358-B2       | Per-tenant cost calculation in multi-tenant data storage system | Wang; Tianqing et al. | 2023/9/19  |
-| US-11314694-B2      | Facilitating access to data in distributed storage system | Guo; Feng et al. | 2022/4/26  |
-| US-11275417-B2      | Apparatus, method and system for managing power of user accounts | Guo; Feng Golfen et al. | 2022/3/15  |
-| US-10939075-B2      | Monitoring target object by multiple cameras | Wang; Grissom Tianqing et al. | 2021/3/2  |
-| US-10831828-B2      | Method and system for improving datacenter operations utilizing layered information model | Xu; Hao et al. | 2021/3/2  |
-| US-10756979-B2      | Performing cross-layer orchestration of resources in data center having multi-layer architecture | Peng; Layne Lin et al. | 2020/8/25 |
-| US-10719072-B2      | Method and apparatus for diagnosis and recovery of system problems | Wang; Tianqing et al. | 2020/7/21  |
-| US-20200213562-A1   | MONITORING TARGET OBJECT BY MULTIPLE CAMERAS | Wang; Grissom Tianqing et al. | 2020/7/2   |
-| US-20200103948-A1   | POWER MANAGEMENT | Guo; Feng Golfen et al. | 2020/4/2   |
-| US-10594984-B2      | Monitoring target object by multiple cameras | Wang; Grissom Tianqing et al. | 2020/3/17  |
-| US-10496144-B2      | Power management | Guo; Feng Golfen et al. | 2019/12/3   |
-| US-20190251606-A1   | PER-TENANT COST CALCULATION IN MULTI-TENANT DATA STORAGE SYSTEM | Wang; Tianqing et al. | 2019/8/15  |
-| US-10372383-B2      | Providing secure access to data in mobile devices | Lu; Patrick Minggang et al. | 2019/8/6   |
-| US-20180341721-A1   | METHOD AND SYSTEM FOR IMPROVING DATACENTER OPERATIONS UTILIZING LAYERED INFORMATION MODEL | Xu; Hao et al. | 2018/11/29 |
-| US-10061864-B1      | Method and system for improving datacenter operations utilizing layered information model | Xu; Hao et al. | 2018/8/28  |
-| US-9983924-B2       | Analytics platform for automated diagnosis, remediation, and proactive supportability | Schnegelberger; Eric et al. | 2018/5/29 |
-| US-9953075-B1       | Data classification system for hybrid clouds | Reiner; David Stephen et al. | 2018/4/24  |
-| US-9871863-B2       | Managing network attached storage | Wang; Tianqing et al. | 2018/1/16  |
-| US-9710332-B1       | Data provenance in computing infrastructure | Fan; Chenhui et al. | 2017/7/18  |
-| US-9619429-B1       | Storage tiering in cloud environment | Wang; Tianqing et al. | 2017/4/11  |
-| US-20170075932-A1   | LOG STORAGE OPTIMIZATION | Wang; Grissom Tianqing et al. | 2017/3/16  |
-| US-9552432-B1       | Lightweight appliance for content retrieval | Romanovskiy; Alexey et al. | 2017/1/24  |
-| US-9542205-B2       | Configuring a data center | Zhang; Yun et al. | 2017/1/10  |
-| US-9542255-B2       | Troubleshooting based on log similarity | Fu; Yu et al. | 2017/1/10  |
-| US-20160306988-A1   | PROVIDING SECURE ACCESS TO DATA IN MOBILE DEVICES | Lu; Patrick Minggang et al. | 2016/10/20 |
-| US-9426246-B2       | Method and apparatus for providing caching service in network infrastructure | Wan; Lintao et al. | 2016/8/23  | 16           |
-| US-20160239374-A1   | ANALYTICS PLATFORM FOR AUTOMATED DIAGNOSIS, REMEDIATION, AND PROACTIVE SUPPORTABILITY | Schnegelberger; Eric et al. | 2016/8/18  |
-| US-20160197794-A1   | QUALITY OF SERVICE SETTING | Wang; Grissom Tianqing et al. | 2016/7/7   |
-| US-20160197850-A1   | PERFORMING CROSS-LAYER ORCHESTRATION OF RESOURCES IN DATA CENTER HAVING MULTI-LAYER ARCHITECTURE | Peng; Layne Lin et al. | 2016/7/7   |
-| US-20160198128-A1   | MONITORING TARGET OBJECT BY MULTIPLE CAMERAS | Wang; Grissom Tianqing et al. | 2016/7/7   |
-| US-9313091-B1       | Analytics platform for automated diagnosis, remediation, and proactive supportability | Schnegelberger; Eric et al. | 2016/4/12  |
-| US-9165009-B1       | Lightweight appliance for content storage | Romanovskiy; Alexey et al. | 2015/10/20 |
-| US-20150277525-A1   | POWER MANAGEMENT | Guo; Feng Golfen et al. | 2015/10/1   |
-| US-20150205624-A1   | CONFIGURING A DATA CENTER | Zhang; Yun et al. | 2015/7/23  | 20           |
-| US-20150186520-A1   | FACILITATING ACCESS TO DATA IN DISTRIBUTED STORAGE SYSTEM | Guo; Feng et al. | 2015/7/2   | 13           |
-| US-20150186907-A1   | DATA MINING | Liu; Li et al. | 2015/7/2   | 16           |
-| US-20150189019-A1   | MANAGING NETWORK ATTACHED STORAGE | Wang; Tianqing et al. | 2015/7/2   | 15           |
-| US-20150089309-A1   | TROUBLESHOOTING BASED ON LOG SIMILARITY | Fu; Yu et al. | 2015/3/26  | 17           |
-| US-20140258987-A1   | DETERMINING CORRECTNESS OF AN APPLICATION | Zhou; Baoyao et al. | 2014/9/11  | 11           |
-| US-20140189857-A1   | METHOD, SYSTEM, AND APPARATUS FOR SECURELY OPERATING COMPUTER | Guo; Feng et al. | 2014/7/3   | 15           |
-| US-20140181982-A1   | METHOD AND SYSTEM FOR DATA PROTECTION | Guo; Feng et al. | 2014/6/26  | 12           |
-| US-20140122637-A1   | METHOD AND APPARATUS FOR PROVIDING CACHING SERVICE IN NETWORK INFRASTRUCTURE | Wan; Lintao et al. | 2014/5/1   | 15           |
-| US-20140114613-A1   | METHOD AND APPARATUS FOR DIAGNOSIS AND RECOVERY OF SYSTEM PROBLEMS | Wang; Tianqing et al. | 2014/4/24  | 14           |
+
+| 专利编号              | 专利名称                                      | 日期       |
+|---------------------|---------------------------------------------|------------|
+| US-11763358-B2       | Per-tenant cost calculation in multi-tenant data storage system | 2023/9/19  |
+| US-11314694-B2      | Facilitating access to data in distributed storage system | 2022/4/26  |
+| US-11275417-B2      | Apparatus, method and system for managing power of user accounts | 2022/3/15  |
+| US-10939075-B2      | Monitoring target object by multiple cameras | 2021/3/2   |
+| US-10831828-B2      | Method and system for improving datacenter operations utilizing layered information model | 2020/11/10 |
+| US-10756979-B2      | Performing cross-layer orchestration of resources in data center having multi-layer architecture | 2020/8/25 |
+| US-10719072-B2      | Method and apparatus for diagnosis and recovery of system problems | 2020/7/21  |
+| US-20200213562-A1   | MONITORING TARGET OBJECT BY MULTIPLE CAMERAS | 2020/7/2   |
+| US-20200103948-A1   | POWER MANAGEMENT | 2020/4/2   |
+| US-10594984-B2      | Monitoring target object by multiple cameras | 2020/3/17  |
+| US-10496144-B2      | Power management | 2019/12/3   |
+| US-20190251606-A1   | PER-TENANT COST CALCULATION IN MULTI-TENANT DATA STORAGE SYSTEM | 2019/8/15  |
+| US-10372383-B2      | Providing secure access to data in mobile devices | 2019/8/6   |
+| US-20180341721-A1   | METHOD AND SYSTEM FOR IMPROVING DATACENTER OPERATIONS UTILIZING LAYERED INFORMATION MODEL | 2018/11/29 |
+| US-10061864-B1      | Method and system for improving datacenter operations utilizing layered information model | 2018/8/28  |
+| US-9983924-B2       | Analytics platform for automated diagnosis, remediation, and proactive supportability | 2018/5/29 |
+| US-9953075-B1       | Data classification system for hybrid clouds | 2018/4/24  |
+| US-9871863-B2       | Managing network attached storage | 2018/1/16  |
+| US-9710332-B1       | Data provenance in computing infrastructure | 2017/7/18  |
+| US-9619429-B1       | Storage tiering in cloud environment | 2017/4/11  |
+| US-20170075932-A1   | LOG STORAGE OPTIMIZATION | 2017/3/16  |
+| US-9552432-B1       | Lightweight appliance for content retrieval | 2017/1/24  |
+| US-9542205-B2       | Configuring a data center | 2017/1/10  |
+| US-9542255-B2       | Troubleshooting based on log similarity | 2017/1/10  |
+| US-20160306988-A1   | PROVIDING SECURE ACCESS TO DATA IN MOBILE DEVICES | 2016/10/20 |
+| US-9426246-B2       | Method and apparatus for providing caching service in network infrastructure | 2016/8/23  |
+| US-20160239374-A1   | ANALYTICS PLATFORM FOR AUTOMATED DIAGNOSIS, REMEDIATION, AND PROACTIVE SUPPORTABILITY | 2016/8/18  |
+| US-20160197794-A1   | QUALITY OF SERVICE SETTING | 2016/7/7   |
+| US-20160197850-A1   | PERFORMING CROSS-LAYER ORCHESTRATION OF RESOURCES IN DATA CENTER HAVING MULTI-LAYER ARCHITECTURE | 2016/7/7   |
+| US-20160198128-A1   | MONITORING TARGET OBJECT BY MULTIPLE CAMERAS | 2016/7/7   |
+| US-9313091-B1       | Analytics platform for automated diagnosis, remediation, and proactive supportability | 2016/4/12  |
+| US-9165009-B1       | Lightweight appliance for content storage | 2015/10/20 |
+| US-20150277525-A1   | POWER MANAGEMENT | 2015/10/1   |
+| US-20150205624-A1   | CONFIGURING A DATA CENTER | 2015/7/23  |
+| US-20150186520-A1   | FACILITATING ACCESS TO DATA IN DISTRIBUTED STORAGE SYSTEM | 2015/7/2   |
+| US-20150186907-A1   | DATA MINING | 2015/7/2   |
+| US-20150189019-A1   | MANAGING NETWORK ATTACHED STORAGE | 2015/7/2   |
+| US-20150089309-A1   | TROUBLESHOOTING BASED ON LOG SIMILARITY | 2015/3/26  |
+| US-20140258987-A1   | DETERMINING CORRECTNESS OF AN APPLICATION | 2014/9/11  |
+| US-20140189857-A1   | METHOD, SYSTEM, AND APPARATUS FOR SECURELY OPERATING COMPUTER | 2014/7/3   |
+| US-20140181982-A1   | METHOD AND SYSTEM FOR DATA PROTECTION | 2014/6/26  |
+| US-20140122637-A1   | METHOD AND APPARATUS FOR PROVIDING CACHING SERVICE IN NETWORK INFRASTRUCTURE | 2014/5/1   |
+| US-20140114613-A1   | METHOD AND APPARATUS FOR DIAGNOSIS AND RECOVERY OF SYSTEM PROBLEMS | 2014/4/24  |
