@@ -10,6 +10,7 @@
 - [Docker](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3222849358602387466#wechat_redirect)
 - [Linux](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3150355891553255432#wechat_redirect)
 - [系统可观测性](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3260787078431457282#wechat_redirect)
+- [BPF 性能之巅](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3213439775656067074#wechat_redirect)
 
 # Patent List (up to 2024-9-23)
 ## China（18）
