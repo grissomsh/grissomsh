@@ -1,3 +1,14 @@
+# 公众号
+## **原力注入**
+![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
+## 合集
+-- [AI Infra](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3492184534886629384#wechat_redirect)
+-- [CUDA](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3497885768545189896#wechat_redirect)
+-- [Kubernetes](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=1912216310197862405#wechat_redirect)
+-- [Docker](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3222849358602387466#wechat_redirect)
+-- [Linux](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3150355891553255432#wechat_redirect)
+-- [系统可观测性](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3260787078431457282#wechat_redirect)
+
 # Patent List (up to 2024-9-23)
 ## China（18）
 | 申请号                 | 申请日   | 公开(公告)号         | 公开(公告)日   | 发明名称                                      | 
