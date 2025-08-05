@@ -2,6 +2,8 @@
 ## **原力注入**
 ![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
 
+[在行](https://www.zaih.com/falcon/mentors/2bip0qfy4ka)
+
 ## 合集
 
 - [AI Infra](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3492184534886629384#wechat_redirect)
