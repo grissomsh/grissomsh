@@ -3,9 +3,8 @@
 ## **原力注入**
 ![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
 
-AI Fundermentals: [https://forceinjection.github.io/](https://forceinjection.github.io/)
-
-[在行](https://www.zaih.com/falcon/mentors/2bip0qfy4ka)
+* AI Fundermentals: [https://forceinjection.github.io/](https://forceinjection.github.io/)
+* [在行](https://www.zaih.com/falcon/mentors/2bip0qfy4ka)
 
 ## 合集
 
