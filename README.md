@@ -1,8 +1,11 @@
 ## **AI 原力注入公众号**
 
-![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
+* **公众号名称**：**AI 原力注入**
+* **介绍**：微软 CEO 萨提亚曾说：“所有产品都值得用 AI 重做一遍。” 我们正处在一场深刻变革中，唯有用 AI 赋能自身，才能拥抱未来。原力注入从云原生迈向 AI 新时代，期待在这个伟大时代中持续成长、不断突破。
 
-* AI 基础在线阅读: [https://forceinjection.github.io/](https://forceinjection.github.io/)
+在线网站：[**AI Fundamentals**](https://forceinjection.github.io/)
+
+![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
 
 ## 文章合集
 
