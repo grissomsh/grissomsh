@@ -1,12 +1,10 @@
-# 公众号
+## **AI 原力注入公众号**
 
-## **原力注入**
 ![fi](https://github.com/user-attachments/assets/ff788cdc-8e4e-4d96-8d78-bc43acebdfce)
 
-* AI Fundamentals: [https://forceinjection.github.io/](https://forceinjection.github.io/)
-* [在行](https://www.zaih.com/falcon/mentors/2bip0qfy4ka)
+* AI 基础在线阅读: [https://forceinjection.github.io/](https://forceinjection.github.io/)
 
-## 合集
+## 文章合集
 
 - [AI Infra](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3492184534886629384#wechat_redirect)
 - [CUDA](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3497885768545189896#wechat_redirect)
@@ -16,8 +14,11 @@
 - [系统可观测性](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3260787078431457282#wechat_redirect)
 - [BPF 性能之巅](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTIzOTMzMA==&action=getalbum&album_id=3213439775656067074#wechat_redirect)
 
-# Patent List (up to 2025-12-31)
-## 中国已授权（22）
+## 📜 Patent List (up to 2025-12-31)
+
+<details>
+<summary><b>🇨🇳 中国已授权（22）</b></summary>
+
 | 申请号 | 公开（公告）号 | 公开（公告）日 | 发明名称 |
 |---|---|---|---|
 | CN201210417663.4 | CN103778044A; CN103778044B | 2014.05.07; 2017.05.17 | 用于系统故障诊断和修复的方法和装置 |
@@ -43,7 +44,10 @@
 | CN202310014093.2 | CN116248626A; CN116248626B | 2023.06.09; 2025.04.15 | 一种真实源地址通信方法、装置、电子设备和存储介质 |
 | CN202411485019.X | CN119336471A; CN119336471B | 2025.01.21; 2025.06.20 | 一种模型推理的请求管理方法、装置以及请求管理系统 |
 
-## US（45）
+</details>
+
+<details>
+<summary><b>🇺🇸 US（45）</b></summary>
 
 | Document / Patent number | 专利名称 | Publication date |
 |---|---|---|
@@ -92,3 +96,5 @@
 | US-20140122637-A1 | Method and apparatus for providing caching service in network infrastructure | 2014/5/1 |
 | US-20140114613-A1 | Method and apparatus for diagnosis and recovery of system problems | 2014/4/24 |
 | US-8700678-B1 | Data provenance in computing infrastructure | 2014/4/15 |
+
+</details>
